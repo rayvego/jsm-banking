@@ -12,8 +12,8 @@ const RightSidebar = ({ user, transactions, banks }: RightSidebarProps) => {
             <span className={"text-5xl font-bold text-blue-500"}>{user?.name[0]}</span>
           </div>
           <div className="profile-details">
-            <h1 className="profile-name">{user.name}</h1>
-            <p className="profile-email">{user.email}</p>
+            <h1 className="profile-name">{user?.name}</h1>
+            <p className="profile-email">{user?.email}</p>
           </div>
         </div>
       </section>
