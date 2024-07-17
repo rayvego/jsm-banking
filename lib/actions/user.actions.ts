@@ -254,8 +254,9 @@ export const getBank = async ({ documentId }: getBankProps) => {
   try {
     const { database } = await createAdminClient();
     const bank = await database.getDocument(DATABASE_ID!, BANK_COLLECTION_ID!, documentId);
-
-    return parseStringify(bank.documents[0]);
+    console.log("BYEE");
+    console.log(bank);
+    return parseStringify(bank);
   } catch (error) {
     console.log("HIII");
     console.log(error);
