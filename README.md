@@ -1,5 +1,20 @@
 # Horizon: Your Financial Command Center
 
+![Horizon](https://github.com/user-attachments/assets/21e7e5e7-be40-4d2e-8368-72b0b7213a4e)
+
+![image](https://github.com/user-attachments/assets/8c59ecdb-fbb8-4c93-afa5-33334ad4c2ba)
+
+![image](https://github.com/user-attachments/assets/7f3460ef-d54d-4bb8-90f5-5b663f9dee80)
+
+![image](https://github.com/user-attachments/assets/c876bd3e-5a2f-4295-b5d6-40c3c0128158)
+
+![image](https://github.com/user-attachments/assets/93d9a65e-e2f1-4f0e-9e96-91b7866c0573)
+
+![image](https://github.com/user-attachments/assets/bc0e9c2c-4d00-4e0a-98a6-363ef0c19836)
+
+![image](https://github.com/user-attachments/assets/5818619c-ef93-4bc0-b883-012766f5504c)
+
+
 ## Introduction
 FinTrack is a modern financial SaaS platform designed to simplify your financial life. Connect your US bank accounts, view transactions, transfer funds, and take control of your money.
 
