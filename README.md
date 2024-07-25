@@ -35,4 +35,11 @@ This project was a deep dive into full-stack development. Here's a breakdown of 
 5. Error Monitoring with Sentry: Set up error tracking to identify and resolve issues proactively.
 6. Plaid & Dwolla Integration: Successfully integrated these platforms to connect bank accounts and enable transfers.
 
+## Deployed on Vercel
+Check it out here: [Horizon](https://jsm-banking-tau.vercel.app/)
+To test out connecting your bank account, use the following credentials:
+- Username: user_good
+- Password: pass_good
+No need to enter any other information, just click "Submit" and you'll be able to see the transactions and balances of the test account.
+
 PS: This was a training project, and no real bank accounts were used in the making of this app. It was followed along from [here](https://www.youtube.com/watch?v=PuOVqP_cjkE&t=2308s).
