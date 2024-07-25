@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Horizon: Your Financial Command Center
 
-## Getting Started
+## Introduction
+FinTrack is a modern financial SaaS platform designed to simplify your financial life. Connect your US bank accounts, view transactions, transfer funds, and take control of your money.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Multi-Bank Connectivity: Link multiple US bank accounts for a unified view.
+2. Transaction Overview: See your latest transactions at a glance.
+3. Secure Transfers: Transfer funds between your linked accounts with ease.
+4. Financial Insights: Analyze your spending habits with interactive charts.
+5. Robust Security: Built with security in mind, using industry-best practices.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies
+- Nextjs
+- Appwrite
+- Plaid
+- Dwolla
+- Sentry
+- TailwindCSS, ShadCN-UI
+- Typescript, Zod
+- React-Hook-Form
+- Chart.js
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## What I Learned
 
-To learn more about Next.js, take a look at the following resources:
+This project was a deep dive into full-stack development. Here's a breakdown of my key learnings:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Next.js: Gained a solid understanding of server and client components, page design, and the separation of concerns between frontend and backend.
+2. Appwrite: Learned how to use this Backend-as-a-Service platform for user authentication and NoSQL database management.
+3. Type-Safe Development: Implemented a type-safe codebase using TypeScript and Zod for schema validation.
+4. React Hook Form Proficiency: Built scalable and clean forms with comprehensive validation.
+5. Error Monitoring with Sentry: Set up error tracking to identify and resolve issues proactively.
+6. Plaid & Dwolla Integration: Successfully integrated these platforms to connect bank accounts and enable transfers.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+PS: This was a training project, and no real bank accounts were used in the making of this app. It was followed along from [here](https://www.youtube.com/watch?v=PuOVqP_cjkE&t=2308s).
